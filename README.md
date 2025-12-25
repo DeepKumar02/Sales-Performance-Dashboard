@@ -26,7 +26,7 @@ To analyze sales trends, profitability, regional performance, product categories
 - The West region leads in total sales performance.
 
 ## 🖼 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshot/dashboard_overview.png)
 
 ## 📁 Files in This Repository
 - `dashboard/sales_performance_dashboard.pbix` – Power BI dashboard file  
