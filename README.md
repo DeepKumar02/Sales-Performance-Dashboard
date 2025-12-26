@@ -27,6 +27,7 @@ To analyze sales trends, profitability, regional performance, product categories
 
 ## 🖼 Dashboard Preview
 ![Dashboard Overview](Screenshot/dashboard_overview.png)
+![Dashboard Overview](Screenshot/filtered_dashboard.png)
 
 ## 📁 Files in This Repository
 - `dashboard/sales_performance_dashboard.pbix` – Power BI dashboard file  
